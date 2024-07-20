@@ -23,23 +23,23 @@ const greeting = {
   username: "Deepak Kushwaha",
   title: "Hi all, I'm Deepak",
   subTitle: emoji(
-    "A DevOps/SRE Engineer 🚀 having an experience of Deploying Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A DevOps/SRE Engineer 🚀 having an experience of Deploying Web and Mobile applications on cloud using the serval tools and technology like docker, Terraform, Kubernetes etc"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "github.com/deepakkushwahax", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  github: "https://github.com/deepakkushwahax",
+  linkedin: "https://www.linkedin.com/in/deepak-kushwaha-6b98a3289/",
+  gmail: "deepakkushwaha7523@gmail.com",
+  gitlab: "https://gitlab.com/codex8591810",
+  facebook: "",
+  medium: "https://medium.com/@deepakkushwaha7523",
+  stackoverflow: "",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
